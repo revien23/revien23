@@ -2,30 +2,31 @@
 
 ### 💻 Student Developer | Aspiring Software Engineer | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm **Revien**, a student developer who enjoys learning new technologies, building projects, and turning ideas into practical applications.
+Welcome to my GitHub profile! I'm **Revien**, a student developer passionate about technology, programming, and building projects that turn ideas into practical solutions.
 
-I use this space to showcase my **projects, experiments, certificates, and development journey** as I continue growing my skills in software development.
-
----
-
-## 🚀 About Me
-
-* 🎓 Currently studying and developing my skills in technology and software development
-* 💻 Building academic, personal, and practical projects
-* 🌱 Currently learning new programming concepts and development tools
-* 🤖 Interested in Artificial Intelligence and emerging technologies
-* 🛠️ I enjoy solving problems through code
-* 📚 Always looking for opportunities to learn and improve
-* 🎯 Goal: Become a skilled and versatile software developer
+This GitHub profile serves as my **portfolio and development journey**, where I showcase my projects, skills, certificates, and the things I'm currently learning.
 
 ---
 
-## 🧑‍💻 What I Do
+## 🧑‍💻 About Me
 
-I enjoy working on projects that allow me to explore different areas of development, including:
+* 🎓 Student developer continuously improving my programming skills
+* 💻 Building academic and personal projects
+* 🌱 Currently expanding my knowledge in software development
+* 🤖 Exploring Artificial Intelligence and emerging technologies
+* ☕ Learning, coding, debugging, and improving every day
+* 🧠 Interested in problem-solving and creating practical applications
+* 🎯 Working toward becoming a professional software developer
+
+---
+
+## 🚀 What I'm Interested In
+
+I enjoy exploring different areas of technology, including:
 
 * 🌐 Web Development
 * 💻 Software Development
+* ☕ Java Development
 * 🗄️ Database Systems
 * 📦 Inventory & Management Systems
 * 🤖 Artificial Intelligence
@@ -36,13 +37,11 @@ I enjoy working on projects that allow me to explore different areas of developm
 
 # 📂 Featured Projects
 
-Here are some of the projects I've worked on or am currently developing.
+## 📦 Inventory Management System
 
-### 📦 Inventory Management System
+A project focused on improving the way inventory is recorded, monitored, and managed.
 
-A project designed to improve how inventory is recorded, monitored, and managed.
-
-**Features include:**
+### Features
 
 * 📋 Product management
 * 📦 Inventory tracking
@@ -51,23 +50,25 @@ A project designed to improve how inventory is recorded, monitored, and managed.
 * ⚠️ Inventory discrepancy tracking
 * 📊 Organized inventory information
 
-> This project focuses on creating a more organized and efficient way of managing inventory records.
+> The goal of this project is to provide a more organized and efficient approach to inventory management.
 
 ---
 
-### 💡 More Projects Coming Soon
+## 💡 More Projects
 
-I'm continuously working on new academic and personal projects.
+I'm continuously working on new academic and personal projects as I develop my skills.
 
-Check out my repositories to explore my work, experiments, and development progress.
+You can explore my repositories below to see my projects, experiments, and progress.
 
-**⬇️ Explore my repositories below!**
+<p align="center">
+  🚀 <strong>More projects coming soon!</strong> 🚀
+</p>
 
 ---
 
-# 🖼️ My Work
+# 🖼️ Project Showcase
 
-Here are some snapshots of my projects and work:
+Here are some screenshots and examples of my work:
 
 <p align="center">
   <img src="image1.png" width="45%" alt="Project Screenshot 1">
@@ -76,62 +77,81 @@ Here are some snapshots of my projects and work:
 
 ---
 
-# 🏆 Certificate
+# 🏆 Certificates & Achievements
 
-### 🤖 Artificial Intelligence Certificate
+I'm continuously learning and improving my skills through courses, projects, and certifications.
 
-A certificate representing my learning and exploration in **Artificial Intelligence**.
+## 🤖 Artificial Intelligence Certificate
 
 <p align="center">
-  <img src="AI%20CERTIFICATE.png" width="75%" alt="AI Certificate">
+  <img src="AI%20CERTIFICATE.png" width="75%" alt="Artificial Intelligence Certificate">
 </p>
 
 ---
 
-# 🛠️ Technologies & Tools
+## ☕ Java Certificate
 
-### Languages & Development
+<p align="center">
+  <img src="certificateJAVA.png" width="75%" alt="Java Certificate">
+</p>
 
-```text
-Programming        █████████████████░░░
-Web Development    ███████████████░░░░░
-Database           ██████████████░░░░░░
-Git & GitHub       █████████████████░░░
-AI / Technology    ████████████░░░░░░░░
-```
+---
 
-### Tools I Use
+# 🛠️ Skills & Technologies
+
+### 💻 Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" alt="My Skills">
+</p>
+
+### 🔧 Tools
 
 * 🐙 GitHub
-* 🔧 Git
-* 💻 VS Code
-* 🗄️ Database Management Tools
-* 🌐 Web Development Tools
-* 🤖 AI Development Tools
+* 🔀 Git
+* 💻 Visual Studio Code
+* ☕ Java
+* 🗄️ MySQL
+* 🌐 HTML / CSS / JavaScript
 
 ---
 
-# 📈 My Development Journey
+# 📚 Currently Learning
 
-I'm still at the beginning of my development journey, but every project gives me an opportunity to learn something new.
+I'm continuously working on improving my technical skills.
 
-My approach is simple:
-
-**Learn → Build → Test → Improve → Repeat 🔄**
-
-I believe that the best way to improve as a developer is through consistent practice and building real projects.
+```text
+Programming
+Software Development
+Web Development
+Database Management
+Artificial Intelligence
+Git & GitHub
+Problem Solving
+```
 
 ---
 
-# 🎯 Current Goals
+# 🎯 My Goals
 
-* 📚 Improve my programming skills
 * 🚀 Build more real-world applications
+* ☕ Improve my Java development skills
+* 🌐 Become better at web development
 * 🤖 Explore Artificial Intelligence
-* 🌐 Improve my web development skills
 * 🗄️ Learn more about databases and backend development
-* 🧠 Strengthen my problem-solving skills
+* 🧠 Improve my problem-solving abilities
 * 💼 Build a strong developer portfolio
+* 📚 Continue learning new technologies
+
+---
+
+# 📈 My Development Philosophy
+
+I believe that becoming a better developer comes from consistently building and learning.
+
+### **Learn → Build → Test → Debug → Improve → Repeat 🔄**
+
+Every project, whether big or small, is an opportunity to learn something new.
 
 ---
 
@@ -139,7 +159,7 @@ I believe that the best way to improve as a developer is through consistent prac
 
 Thanks for visiting my GitHub profile! 👋
 
-Feel free to explore my repositories and follow my journey as I continue learning, building, and improving.
+Feel free to explore my repositories and follow my journey as I continue learning, building, and improving as a developer.
 
 <p align="center">
   <strong>⭐ Learn. Build. Improve. Repeat. ⭐</strong>
